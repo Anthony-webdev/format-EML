@@ -23,6 +23,6 @@ On peut donc lire l'en-tête du mail avec les mails de l'expéditeur et du desti
 Puis plus bas le sujet du mail et le corps du mail.
 Ce dernier peut-être au format HTML (code interprété par les navigateurs internet) et donc pas forcément lisible.
 
-![DESCRIPTION DE L'IMAGE](https://www.malekal.com/wp-content/uploads/fichiers-EML-2.jpg)
+![fichier eml](https://www.malekal.com/wp-content/uploads/fichiers-EML-2.jpg)
 
 Le corps du texte peut être en base64. Les pièces jointes seront aussi dans ce format.
